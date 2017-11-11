@@ -1,0 +1,10 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"C:/Repos/03_BuildingEscape/BuildingEscape/.vs": true,
+		"C:/Repos/03_BuildingEscape/BuildingEscape/.vscode": true,
+		"C:/Repos/03_BuildingEscape/BuildingEscape/Content": true,
+		"C:/Repos/03_BuildingEscape/BuildingEscape/Intermediate": true,
+		"C:/Repos/03_BuildingEscape/BuildingEscape/Saved": true
+	}
+}
